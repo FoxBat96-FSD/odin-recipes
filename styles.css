@@ -1,0 +1,38 @@
+body {
+  max-width: 600px;
+  margin: auto;
+  background-color: #FF7F50;
+  font-family: "Times New Roman",serif;
+  color: #228B22;
+}
+
+h1 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+img {
+  height: 400px;
+  width: 600px;
+}
+a { 
+    color: #FF0000;
+
+}
+
+ul, ol {
+    background-color: #FFFDD0;
+    padding: 10px;
+    padding-left: 30px;
+    border: 5px solid #000000;
+    margin: 2px;
+}
+p {
+    font-style: italic;
+}
+.highlight{
+  color: #FF0000;
+}
